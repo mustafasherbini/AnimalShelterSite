@@ -1,0 +1,41 @@
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #1690A7;
+    color: white;
+  }
+
+  
+  .header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: white;
+  }
+  
+  
+  .card {
+    padding: -10px;
+    text-align: center;
+    background: white;
+  }
+  
+ 
